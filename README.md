@@ -49,7 +49,7 @@ Development Tools:
 1. Make sure JDK is installed (`java -version`)  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cricket-match-prediction.git
+   https://github.com/t-vishnuvardhanreddy/Cricket-Match-Win-Prediction-System.git
 
 
 javac <file_name>.java
